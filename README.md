@@ -1,5 +1,5 @@
 # umkm_portal_web
-This repository contains .pdf files of journals resulting from internships at PT. CENPLUS Computer Flashlight as web developer
+This repository contains .pdf files of journals resulting from internships as web developer
 contain:
 - UML
 - Display Structure
